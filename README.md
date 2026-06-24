@@ -1,3 +1,11 @@
+# Hi there, I'm DANGER DASH! 👋 | Game Reverse Engineer & Tool Developer
+
+Welcome to my Cheat Engine Lua Script repository! I specialize in **Game Reverse Engineering, Memory Manipulation, and Automation**, with a core focus on expanding Cheat Engine's capabilities using Lua. This repository contains advanced, highly optimized **Lua Engine Scripts** designed to automate workflows, modify Cheat Engine's UI, and interact deeply with game processes.
+
+[![FearlessRevolution Profile](https://img.shields.io/badge/FearlessRevolution-Profile-orange?style=for-the-badge)](https://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=213726&sid=0f7ddd121c4e244f2663f8c2b424024d)
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on creating advanced Cheat Tables (.CT) for popular PC games and optimizing memory scanning scripts.<br>👯 I’m looking to collaborate on Unity game modding projects, trainer development, and reverse engineering tools.<br>🌱 I’m currently learning advanced internal memory hacking, assembly language (x86/x64), and deep-level Unity Engine internals.<br>💬 Ask me about Cheat Engine, pointer maps, AOB injection, assembly scripts, and exploiting Unity games.<br>⚡ Fun fact I have been reverse-engineering and cracking games for over 6 years, and you can find my official Cheat Tables published on Fearless Revolution!
 
