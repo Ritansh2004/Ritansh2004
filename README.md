@@ -7,7 +7,7 @@ Welcome to my Cheat Engine Lua Script repository! I specialize in **Game Reverse
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on creating advanced Cheat Tables (.CT) for popular PC games and optimizing memory scanning scripts.<br>👯 I’m looking to collaborate on Unity game modding projects, trainer development, and reverse engineering tools.<br>🌱 I’m currently learning advanced internal memory hacking, assembly language (x86/x64), and deep-level Unity Engine internals.<br>💬 Ask me about Cheat Engine, pointer maps, AOB injection, assembly scripts, and exploiting Unity games.<br>⚡ Fun fact I have been reverse-engineering and cracking games for over 6 years, and you can find my official Cheat Tables published on Fearless Revolution!
+🔭 I’m currently working on creating advanced Cheat Tables (.CT) for popular PC games and optimizing memory scanning scripts.<br>👯 I’m looking to collaborate on Unity game modding projects, trainer development, and reverse engineering tools.<br>🌱 I’m currently learning advanced internal memory hacking, assembly language (x86/x64), and deep-level Unity Engine internals.<br>💬 Ask me about Cheat Engine, pointer maps, AOB injection, assembly scripts, and exploiting Unity games.<br>⚡ Fun fact I have been reverse-engineering and cracking games for over 6+ years, and you can find my official Cheat Tables published on Fearless Revolution!
 
 
 ## 🌐 Socials:
