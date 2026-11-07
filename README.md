@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated thin neon section divider" />
 </p>
 
 ## 👨‍💻 About Me
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 - ⚡ I've been exploring game reverse engineering for over six years, and I share selected Cheat Tables on Fearless Revolution.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated thin neon section divider" />
 </p>
 
 ## 💻 Tech Stack & Tools
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated thin neon section divider" />
 </p>
 
 ## 🚀 Featured Projects
@@ -90,7 +90,7 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 | [Portfolio](https://github.com/Ritansh2004/Portfolio) | Source code for my personal portfolio website. |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated thin neon section divider" />
 </p>
 
 ## 📊 GitHub Statistics
@@ -107,7 +107,7 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated thin neon section divider" />
 </p>
 
 ## 🐍 Contribution Activity
@@ -131,7 +131,7 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated thin neon section divider" />
 </p>
 
 ## 🌐 Connect With Me
@@ -149,7 +149,7 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated thin neon section divider" />
 </p>
 
 ## ✍️ Random Dev Quote
@@ -159,7 +159,7 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:6D28D9,70:0891B2,100:F97316&height=160&section=footer&text=DANGER%20DASH&fontSize=30&fontColor=F8FAFC&animation=twinkling&fontAlignY=62&desc=THANKS%20FOR%20VISITING&descAlignY=81&descSize=13" width="100%" alt="Multicolor animated-text profile footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:6D28D9,70:0891B2,100:F97316&height=125&section=footer&text=DANGER%20DASH&fontSize=28&fontColor=F8FAFC&animation=twinkling&fontAlignY=60&desc=THANKS%20FOR%20VISITING&descAlignY=80&descSize=12" width="100%" alt="Multicolor animated-text profile footer" />
 </p>
 
 <p align="center">
