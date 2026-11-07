@@ -1,39 +1,45 @@
-
-name: Generate Contribution Snake
+name: Generate Growing Contribution Snake
 
 on:
   push:
     branches:
       - main
-    paths:
-      - README.md
-      - .github/workflows/snake.yml
-
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: '17 0 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: growing-contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Ritansh2004
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout repository
+        uses: actions/checkout@v7
 
-      - name: Publish Snake Animation
-        uses: crazy-max/ghaction-github-pages@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
         with:
-          target_branch: output
-          build_dir: dist
+          node-version: '24'
+          package-manager-cache: false
+
+      - name: Generate growing snake SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Ritansh2004
+        run: node scripts/generate-growing-snake.mjs
+
+      - name: Publish SVGs to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
