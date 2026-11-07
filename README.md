@@ -16,7 +16,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -41,7 +43,9 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 - 💬 Ask me about Cheat Engine, pointer maps, AOB techniques, Lua scripting, and Auto Assemble.
 - ⚡ I've been exploring game reverse engineering for over six years, and I share selected Cheat Tables on Fearless Revolution.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+</p>
 
 ## 💻 Tech Stack & Tools
 
@@ -61,7 +65,9 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
   <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -83,7 +89,9 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 | [Cheat-Engine-Cheat-Tables](https://github.com/Ritansh2004/Cheat-Engine-Cheat-Tables) | A collection of Cheat Tables for PC games. |
 | [Portfolio](https://github.com/Ritansh2004/Portfolio) | Source code for my personal portfolio website. |
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -98,7 +106,9 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+</p>
 
 ## 🐍 Contribution Activity
 
@@ -120,7 +130,9 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+</p>
 
 ## 🌐 Connect With Me
 
@@ -136,7 +148,9 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ritansh2004/Ritansh2004/main/assets/animated-divider.gif" width="100%" alt="Animated multicolor section divider" />
+</p>
 
 ## ✍️ Random Dev Quote
 
@@ -145,9 +159,9 @@ Welcome to my GitHub profile! I focus on <strong>Game Reverse Engineering, Memor
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,35:0891B2,70:6D28D9,100:0F172A&height=120&section=footer" width="100%" alt="Profile footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:6D28D9,70:0891B2,100:F97316&height=160&section=footer&text=DANGER%20DASH&fontSize=30&fontColor=F8FAFC&animation=twinkling&fontAlignY=62&desc=THANKS%20FOR%20VISITING&descAlignY=81&descSize=13" width="100%" alt="Multicolor animated-text profile footer" />
 </p>
 
 <p align="center">
-  <strong>⚡ DANGER DASH · Building · Exploring · Reverse Engineering ⚡</strong>
+  <strong>⚡ Building · Exploring · Reverse Engineering ⚡</strong>
 </p>
