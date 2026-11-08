@@ -29,6 +29,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Platane/snk@v3 runs as a Docker action and can leave generated files
+      # owned by root. Give the GitHub Actions runner ownership before editing them.
+      - name: Fix generated SVG file ownership
+        shell: bash
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
+          chmod -R u+rwX dist
+
       - name: Add pause before the Snake animation restarts
         shell: bash
         run: |
